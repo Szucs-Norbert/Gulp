@@ -1,0 +1,20 @@
+{
+  "name": "tipus",
+  "version": "1.0.0",
+  "description": "Típusok ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server --baseDir=public"
+  },
+  "author": "Szűcs Norbert",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "gulp-cli": "^2.3.0",
+    "lite-server": "^2.6.1"
+  }
+}
